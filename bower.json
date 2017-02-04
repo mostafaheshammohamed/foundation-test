@@ -1,0 +1,23 @@
+{
+  "name": "foundation",
+  "authors": [
+    "mostafa hesham <mhmlabdel@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "^5.5.3",
+    "foundation-icons": "*",
+    "bourbon": "^4.2.7"
+  }
+}
